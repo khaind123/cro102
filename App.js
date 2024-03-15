@@ -1,9 +1,10 @@
 import React from "react";
-import Lab1Bai3 from "./src/screen/lab1/Bai3";
+import Main from "./src/screen/lab2/Main";
+import Work from "./src/screen/baitap";
 
 const App = () => {
     return (
-        <Lab1Bai3></Lab1Bai3>
+        <Main></Main>
     );
 };
 

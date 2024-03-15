@@ -2,7 +2,7 @@ import React from "react";
 import { Text, View } from "react-native";
 import { styles } from './style';
 
-const Lab1 = () => {
+const Lab3 = () => {
     return (
        <Text style = {styles.text}>hello</Text>
     );
