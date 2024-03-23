@@ -25,4 +25,10 @@ export const styles = StyleSheet.create({
         paddingVertical: 20,
         flex: 1,
     },
+
+    eye: {
+        width: 24,
+        height: 24,
+        marginHorizontal: 16,
+    },
 });

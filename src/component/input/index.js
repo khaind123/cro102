@@ -1,8 +1,9 @@
-import React, { useState } from "react";
+import React from "react";
 import { Text, TextInput, View } from "react-native";
 import { styles } from "./style";
 
 const Input = ({label, placeholder}) => {
+    
 
     return (
         <View style = {styles.container}>
